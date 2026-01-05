@@ -1,0 +1,18 @@
+{
+    "node": "n8n-nodes-weavely",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": ["Communication", "Productivity"],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://help.weavely.ai/integrations/personal-tokens"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://help.weavely.ai/"
+            }
+        ]
+    }
+}
