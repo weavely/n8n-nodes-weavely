@@ -1,6 +1,6 @@
 {
     "name": "n8n-nodes-weavely",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "n8n community node for Weavely form submission triggers",
     "license": "MIT",
     "homepage": "https://github.com/weavely/n8n-nodes-weavely.git#readme",
